@@ -42,3 +42,5 @@ NumPy, Pandas, Matplotlib, Seaborn, VisualKeras
 Google Colab, Google Drive
 
 ---
+
+⭐ This is an educational project built during my learning process, and I’m actively improving it as I grow.
